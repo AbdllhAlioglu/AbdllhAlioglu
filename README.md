@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdllhAlioglu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning React, React Native and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aliogluuabdullah@gmail.com
 <!---
