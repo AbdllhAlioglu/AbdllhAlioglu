@@ -7,7 +7,7 @@ Frontend Developer
 Welcome to my GitHub profile! I'm passionate about coding and continuously seeking to expand my knowledge and skills in various programming languages and technologies.
 
 * 🌍  I'm based in Türkiye
-* 🖥️  See my portfolio at [MyPortfolio](http://https://abdullahalioglu-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://abdullahalioglu-portfolio.vercel.app/)
 * ✉️  You can contact me at [aliogluuabdullah@gmail.com](mailto:aliogluuabdullah@gmail.com)
 * 🧠  I'm learning React and its ecosystem, including Redux, React Router, and Context API and Improving my skills in modern JavaScript (ES6+) and functional programming
 * 🤝  I'm open to collaborating on frontend projects using React, Next.js.
